@@ -1,4 +1,4 @@
 # coverBot
 
-Bot criando para esta fazendo implementação de chatbot.
+Bot criado para esta fazendo implementação de chatbot no Discord.
 Feito em Python e Nexcord.
